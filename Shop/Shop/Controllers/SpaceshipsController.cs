@@ -29,7 +29,7 @@ namespace Shop.Controllers
                 });
               
 
-            return View();
+            return View(result);
         }
     }
 }
