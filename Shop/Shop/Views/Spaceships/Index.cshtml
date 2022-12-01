@@ -4,6 +4,11 @@
     Products
 </div>
 
+@{
+    int rowNr = 1;
+
+}
+
 <div>
     <a asp-action="add" asp-controller="spaceships" type="submit" class="btn btn-outline-primary"> Add</a>
 </div>
@@ -22,8 +27,9 @@
         <tbody>
             @foreach (var spaceship in Model)
             {
+                
                 <tr>
-                    <td>1</td>
+                    <td>@rowNr</td>
                     <td>@spaceship.Name</td>
                     <td>@spaceship.Type</td>
                     <td>@spaceship.Passengers</td>
@@ -35,6 +41,7 @@
                     
 
                 </tr>
+                rowNr++;
             }
         </tbody>
     </table>
