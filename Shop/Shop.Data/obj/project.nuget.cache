@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mjr4/KwKz0MXLqt3Kqv3HRS3TZrW5hLr7HpRllc+LRgQSiw5wWDCjlgMSH9yjgytnpCZORbb8a9Skt0+NEFW3g==",
+  "dgSpecHash": "d732oK4wGcPKvUWo4kOE6L759oIGHxViscjzRyKq7wd7VErFUG/WyML8UHNup0zy+sRzKKcGLHqM/z769I6k9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\opilane\\Documents\\GitHub\\Shop\\Shop\\Shop.Data\\Shop.Data.csproj",
+  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\Shop\\Shop\\Shop.Data\\Shop.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\opilane\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

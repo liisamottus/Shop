@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Shop",
+    "\\Shop\\Shop",
+    "\\Shop\\Shop.ApplicationServices",
+    "\\Shop\\Shop.Core",
+    "\\Shop\\Shop.Data",
+    "\\Shop\\Shop\\Controllers",
+    "\\Shop\\Shop\\Views"
+  ],
+  "SelectedNode": "\\Shop\\Shop\\Controllers",
+  "PreviewInSolutionExplorer": false
+}

@@ -585,11 +585,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\Documents\\GitHub\\Shop\\Shop\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Shop\\Shop\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj",
       "projectName": "Shop.ApplicationServices",
-      "projectPath": "C:\\Users\\opilane\\Documents\\GitHub\\Shop\\Shop\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj",
+      "projectPath": "C:\\Users\\opilane\\source\\repos\\Shop\\Shop\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj",
       "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\opilane\\Documents\\GitHub\\Shop\\Shop\\Shop.ApplicationServices\\obj\\",
+      "outputPath": "C:\\Users\\opilane\\source\\repos\\Shop\\Shop\\Shop.ApplicationServices\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\opilane\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LvewY0yOUyjCdDmt+Rio24hVlMsTIYVMSjiZZw8/roD3Fqhw3Ag57aEMzGF4iouL0x3ABUXxsyWHAv7tDDoxzg==",
+  "dgSpecHash": "HYAy+Wkl+WvBKSijUm1Kzxj5/RuRF+3ew7yZemfgLy8uCiWgpoxXkHMGOy7t2TxxCuDcIA0FVW/kY2RRx6HS+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\opilane\\Documents\\GitHub\\Shop\\Shop\\Shop.Core\\Shop.Core.csproj",
+  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\Shop\\Shop\\Shop.Core\\Shop.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.11\\microsoft.entityframeworkcore.6.0.11.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.11\\microsoft.entityframeworkcore.abstractions.6.0.11.nupkg.sha512",
